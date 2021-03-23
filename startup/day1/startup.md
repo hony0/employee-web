@@ -101,4 +101,11 @@ protected void doGet(HttpServletRequest request, HttpServletResponse response) t
 ![employee_web_sample](images/make_web_19.png)
 ![employee_web_sample](images/make_web_20.png)    
 
+
+最後にブラウザのデベロッパーツールから画面上の `<table>` タグを下記のサイトのものに置き変えてみてHTMLだけでカッコいいUIを実現できるbootstrapの便利さを体感しましょう！  
+
+参考:  
+https://www.tutorialrepublic.com/codelab.php?opic=bootstrap&file=crud-data-table-for-database-with-modal-form  
+https://www.bootdey.com/snippets/view/Clients#html
+
 ## ひとまず検索はできないけどday1はここまで
